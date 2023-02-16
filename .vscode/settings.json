@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "First-Module\\package.json": true,
+    "First-Module\\package-lock.json": true,
+    "First-Module\\node_modules": true
+  }
+}
